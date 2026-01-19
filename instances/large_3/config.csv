@@ -1,0 +1,13 @@
+parameter,value
+num_workpiece_types,10
+num_orders,25
+num_agvs,10
+num_machines,15
+map_width,100.0
+map_height,100.0
+agv_speed,1.0
+buffer_capacity,2
+order_dispatch_x,0.0
+order_dispatch_y,50.0
+warehouse_x,100.0
+warehouse_y,50.0
